@@ -18,7 +18,7 @@ const Navbar = () => {
         {/* Start: Logo and Name */}
         <div className="flex items-center">
           <img src={logoIcon} alt="Logo" className="h-8 w-8 mr-2" />
-          <span className="text-xl font-semibold">E-Nest</span>
+          <span className="text-xl font-bold text-purple-800">E-Nest</span>
         </div>
 
         {/* Center: Navigation Links */}
