@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1acc97ab.css",
+    "main.js": "/static/js/main.a9ca9e2f.js",
+    "static/js/453.a6a97343.chunk.js": "/static/js/453.a6a97343.chunk.js",
+    "static/media/logoIcon.png": "/static/media/logoIcon.482068979fd2efcd7f50.png",
+    "static/media/mentorProfile.png": "/static/media/mentorProfile.482068979fd2efcd7f50.png",
+    "static/media/profileImage.png": "/static/media/profileImage.482068979fd2efcd7f50.png",
+    "static/media/goverment.jpg": "/static/media/goverment.c317176f6bbe7924454e.jpg",
+    "static/media/twitter.png": "/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/linkedin.png": "/static/media/linkedin.17e919bb623c20be8b80.png",
+    "static/media/youtube.png": "/static/media/youtube.060528b6e83f2004078d.png",
+    "static/media/facebook.png": "/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "index.html": "/index.html",
+    "main.1acc97ab.css.map": "/static/css/main.1acc97ab.css.map",
+    "main.a9ca9e2f.js.map": "/static/js/main.a9ca9e2f.js.map",
+    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1acc97ab.css",
+    "static/js/main.a9ca9e2f.js"
+  ]
+}
