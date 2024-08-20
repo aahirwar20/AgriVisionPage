@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AgriVisionPage/static/css/main.1acc97ab.css",
-    "main.js": "/AgriVisionPage/static/js/main.9a820e98.js",
+    "main.css": "/AgriVisionPage/static/css/main.8d6d7752.css",
+    "main.js": "/AgriVisionPage/static/js/main.e130bbb7.js",
     "static/js/453.a6a97343.chunk.js": "/AgriVisionPage/static/js/453.a6a97343.chunk.js",
     "static/media/logoIcon.png": "/AgriVisionPage/static/media/logoIcon.482068979fd2efcd7f50.png",
     "static/media/mentorProfile.png": "/AgriVisionPage/static/media/mentorProfile.482068979fd2efcd7f50.png",
@@ -12,12 +12,12 @@
     "static/media/youtube.png": "/AgriVisionPage/static/media/youtube.060528b6e83f2004078d.png",
     "static/media/facebook.png": "/AgriVisionPage/static/media/facebook.49e67d43221b6bb1aa86.png",
     "index.html": "/AgriVisionPage/index.html",
-    "main.1acc97ab.css.map": "/AgriVisionPage/static/css/main.1acc97ab.css.map",
-    "main.9a820e98.js.map": "/AgriVisionPage/static/js/main.9a820e98.js.map",
+    "main.8d6d7752.css.map": "/AgriVisionPage/static/css/main.8d6d7752.css.map",
+    "main.e130bbb7.js.map": "/AgriVisionPage/static/js/main.e130bbb7.js.map",
     "453.a6a97343.chunk.js.map": "/AgriVisionPage/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1acc97ab.css",
-    "static/js/main.9a820e98.js"
+    "static/css/main.8d6d7752.css",
+    "static/js/main.e130bbb7.js"
   ]
 }
